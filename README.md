@@ -83,4 +83,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check out 
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [GPL License](LICENSE) - see the LICENSE file for details.
